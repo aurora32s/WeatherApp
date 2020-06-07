@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Weather</string>
+
+    <!--activity_main-->
+    <string name="app_description">Local Weather</string>
+    <string name="local">Local</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+
+    <string name="temp">°C</string>
+    <string name="humidity">%</string>
+
 </resources>

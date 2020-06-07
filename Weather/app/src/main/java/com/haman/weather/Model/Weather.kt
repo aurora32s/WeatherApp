@@ -3,7 +3,7 @@ package com.haman.weather.Model
 class Weather{
     var id : Long = 0
     var weather_state_name : String? = null
-    var weather_state_addr : String? = null
+    var weather_state_abbr : String? = null
     var wind_direction_compass : String? = null
     var created : String? = null
     var applicable_date : String? = null

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--activity_main-->
+    <dimen name="main_padding">10sp</dimen>
+    <dimen name="main_txt_padding">10sp</dimen>
+    <dimen name="main_txt_size">30sp</dimen>
+</resources>
